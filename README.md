@@ -7,7 +7,5 @@ Deep Learning course about CCN with tensorflow.
 - **python** 3.7
 
 ### Datasets
-- MNIST
-![image](https://github.com/user-attachments/assets/738c79e5-6142-4141-a07a-345e9b046996)
-
+- MNIST - https://www.tensorflow.org/datasets/catalog/mnist?hl=es
 - Custom dataset
